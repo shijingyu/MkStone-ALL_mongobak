@@ -1,1 +1,0 @@
-# MkStone-ALL_mongobak
